@@ -1,3 +1,3 @@
 # curso_git
 
-hola mundo 2.0 REMIX
+hola mundo 2.0 3.0
