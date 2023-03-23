@@ -1,3 +1,3 @@
 # curso_git
 
-hola mundo
+hola mundo 2
